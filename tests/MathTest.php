@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+echo"sinto fome";
+
 namespace Tests;
 
 use App\Math;
